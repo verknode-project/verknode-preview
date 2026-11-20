@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.797201Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.112302Z",
+      "mimetype": null,
+      "name": "llm.vkf",
+      "path": "examples/llm/llm.vkf",
+      "size": 61923,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.796815Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.111901Z",
+      "mimetype": null,
+      "name": "chatbot.vkf",
+      "path": "examples/llm/chatbot.vkf",
+      "size": 49039,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.797969Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.112302Z",
+      "mimetype": null,
+      "name": "ollama.vkf",
+      "path": "examples/llm/ollama.vkf",
+      "size": 62522,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.797632Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.112302Z",
+      "mimetype": null,
+      "name": "llm_connections.vkf",
+      "path": "examples/llm/llm_connections.vkf",
+      "size": 26204,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-11-20T01:38:26.797969Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-11-20T01:38:26.797969Z",
+  "mimetype": null,
+  "name": "llm",
+  "path": "examples/llm",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjupyterlab_verknode=self.webpackChunkjupyterlab_verknode||[]).push([[162],{162(e,r,c){c.d(r,{createArchitectureServices:()=>t.S});var t=c(3317);c(1439)}}]);

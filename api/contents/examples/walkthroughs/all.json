@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.800035Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.113312Z",
+      "mimetype": null,
+      "name": "sales_walkthrough.vkf",
+      "path": "examples/walkthroughs/sales_walkthrough.vkf",
+      "size": 47245,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.799696Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:38:26.799696Z",
+      "mimetype": null,
+      "name": "data",
+      "path": "examples/walkthroughs/data",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2026-11-20T01:38:26.799696Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-11-20T01:38:26.799696Z",
+  "mimetype": null,
+  "name": "walkthroughs",
+  "path": "examples/walkthroughs",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

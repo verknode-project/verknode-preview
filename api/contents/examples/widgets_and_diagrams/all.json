@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.803062Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.114901Z",
+      "mimetype": null,
+      "name": "widgets.vkf",
+      "path": "examples/widgets_and_diagrams/widgets.vkf",
+      "size": 123957,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.802751Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:38:26.802751Z",
+      "mimetype": null,
+      "name": "vkn_widget_nodes",
+      "path": "examples/widgets_and_diagrams/vkn_widget_nodes",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.802352Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.113901Z",
+      "mimetype": null,
+      "name": "mermaid.vkf",
+      "path": "examples/widgets_and_diagrams/mermaid.vkf",
+      "size": 30365,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-11-20T01:38:26.802751Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-11-20T01:38:26.802751Z",
+  "mimetype": null,
+  "name": "widgets_and_diagrams",
+  "path": "examples/widgets_and_diagrams",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.793075Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:38:26.793075Z",
+      "mimetype": null,
+      "name": "vkn_custom_nodes",
+      "path": "examples/custom_nodes/vkn_custom_nodes",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.791986Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.108901Z",
+      "mimetype": null,
+      "name": "custom_nodes.vkf",
+      "path": "examples/custom_nodes/custom_nodes.vkf",
+      "size": 56606,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-11-20T01:38:26.791986Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-11-20T01:38:26.791986Z",
+  "mimetype": null,
+  "name": "custom_nodes",
+  "path": "examples/custom_nodes",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

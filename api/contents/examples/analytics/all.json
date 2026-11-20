@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.791319Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.108901Z",
+      "mimetype": null,
+      "name": "analytics.vkf",
+      "path": "examples/analytics/analytics.vkf",
+      "size": 116812,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-11-20T01:38:26.791319Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-11-20T01:38:26.791319Z",
+  "mimetype": null,
+  "name": "analytics",
+  "path": "examples/analytics",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

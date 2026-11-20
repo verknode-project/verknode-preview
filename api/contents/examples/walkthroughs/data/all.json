@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.799696Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.113312Z",
+      "mimetype": "text/csv",
+      "name": "sales.csv",
+      "path": "examples/walkthroughs/data/sales.csv",
+      "size": 14704,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-11-20T01:38:26.799696Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-11-20T01:38:26.799696Z",
+  "mimetype": null,
+  "name": "data",
+  "path": "examples/walkthroughs/data",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

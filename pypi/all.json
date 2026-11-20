@@ -1,0 +1,184 @@
+{
+  "comm": {
+    "releases": {
+      "0.2.3": [
+        {
+          "comment_text": "",
+          "digests": {
+            "md5": "cb7196837f54f6a62586730c4460b2ce",
+            "sha256": "c615d91d75f7f04f095b30d1c1711babd43bdc6419c1be9886a85f2f4e489417"
+          },
+          "downloads": -1,
+          "filename": "comm-0.2.3-py3-none-any.whl",
+          "has_sig": false,
+          "md5_digest": "cb7196837f54f6a62586730c4460b2ce",
+          "packagetype": "bdist_wheel",
+          "python_version": "py3",
+          "requires_python": ">=3.8",
+          "size": 7294,
+          "upload_time": "2026-11-20T01:38:23.409273Z",
+          "upload_time_iso_8601": "2026-11-20T01:38:23.409273Z",
+          "url": "./comm-0.2.3-py3-none-any.whl",
+          "yanked": false,
+          "yanked_reason": null
+        }
+      ]
+    }
+  },
+  "et-xmlfile": {
+    "releases": {
+      "2.0.0": [
+        {
+          "comment_text": "",
+          "digests": {
+            "md5": "2a0e42a250b2d8a56497969eb14a979d",
+            "sha256": "7a91720bc756843502c3b7504c77b8fe44217c85c537d85037f0f536151b2caa"
+          },
+          "downloads": -1,
+          "filename": "et_xmlfile-2.0.0-py3-none-any.whl",
+          "has_sig": false,
+          "md5_digest": "2a0e42a250b2d8a56497969eb14a979d",
+          "packagetype": "bdist_wheel",
+          "python_version": "py3",
+          "requires_python": ">=3.8",
+          "size": 18059,
+          "upload_time": "2026-11-20T01:38:23.410814Z",
+          "upload_time_iso_8601": "2026-11-20T01:38:23.410814Z",
+          "url": "./et_xmlfile-2.0.0-py3-none-any.whl",
+          "yanked": false,
+          "yanked_reason": null
+        }
+      ]
+    }
+  },
+  "jsonpath-ng": {
+    "releases": {
+      "1.16.0": [
+        {
+          "comment_text": "",
+          "digests": {
+            "md5": "f9392e70717f26dfc30272197df1c080",
+            "sha256": "c5e28ddd70ebcaeba9af3c2b880933fbfeb108b5e68c9edb84e1b57803091218"
+          },
+          "downloads": -1,
+          "filename": "jsonpath_ng-1.16.0-py3-none-any.whl",
+          "has_sig": false,
+          "md5_digest": "f9392e70717f26dfc30272197df1c080",
+          "packagetype": "bdist_wheel",
+          "python_version": "py3",
+          "requires_python": ">=3.11",
+          "size": 86201,
+          "upload_time": "2026-11-20T01:38:23.411436Z",
+          "upload_time_iso_8601": "2026-11-20T01:38:23.411436Z",
+          "url": "./jsonpath_ng-1.16.0-py3-none-any.whl",
+          "yanked": false,
+          "yanked_reason": null
+        }
+      ]
+    }
+  },
+  "jupyterlab-verknode": {
+    "releases": {
+      "0.1.0": [
+        {
+          "comment_text": "",
+          "digests": {
+            "md5": "b9fbd0caf7c4a46ae8beb21b0e4c6e2e",
+            "sha256": "340bb004df868e844689476f006a96d87b864199d038431e044683149747e753"
+          },
+          "downloads": -1,
+          "filename": "jupyterlab_verknode-0.1.0-py3-none-any.whl",
+          "has_sig": false,
+          "md5_digest": "b9fbd0caf7c4a46ae8beb21b0e4c6e2e",
+          "packagetype": "bdist_wheel",
+          "python_version": "py3",
+          "requires_python": ">=3.9",
+          "size": 5699229,
+          "upload_time": "2026-11-20T01:37:43.112705Z",
+          "upload_time_iso_8601": "2026-11-20T01:37:43.112705Z",
+          "url": "./jupyterlab_verknode-0.1.0-py3-none-any.whl",
+          "yanked": false,
+          "yanked_reason": null
+        }
+      ]
+    }
+  },
+  "openpyxl": {
+    "releases": {
+      "3.1.5": [
+        {
+          "comment_text": "",
+          "digests": {
+            "md5": "05a1b34e9893bab14dd70c7645c4ddcb",
+            "sha256": "5282c12b107bffeef825f4617dc029afaf41d0ea60823bbb665ef3079dc79de2"
+          },
+          "downloads": -1,
+          "filename": "openpyxl-3.1.5-py2.py3-none-any.whl",
+          "has_sig": false,
+          "md5_digest": "05a1b34e9893bab14dd70c7645c4ddcb",
+          "packagetype": "bdist_wheel",
+          "python_version": "py3",
+          "requires_python": ">=3.8",
+          "size": 250910,
+          "upload_time": "2026-11-20T01:38:23.409904Z",
+          "upload_time_iso_8601": "2026-11-20T01:38:23.409904Z",
+          "url": "./openpyxl-3.1.5-py2.py3-none-any.whl",
+          "yanked": false,
+          "yanked_reason": null
+        }
+      ]
+    }
+  },
+  "ply": {
+    "releases": {
+      "3.11": [
+        {
+          "comment_text": "",
+          "digests": {
+            "md5": "62b6ad5affddc9926ab5571f390cc840",
+            "sha256": "096f9b8350b65ebd2fd1346b12452efe5b9607f7482813ffca50c22722a807ce"
+          },
+          "downloads": -1,
+          "filename": "ply-3.11-py2.py3-none-any.whl",
+          "has_sig": false,
+          "md5_digest": "62b6ad5affddc9926ab5571f390cc840",
+          "packagetype": "bdist_wheel",
+          "python_version": "py3",
+          "requires_python": null,
+          "size": 49567,
+          "upload_time": "2026-11-20T01:38:23.412067Z",
+          "upload_time_iso_8601": "2026-11-20T01:38:23.412067Z",
+          "url": "./ply-3.11-py2.py3-none-any.whl",
+          "yanked": false,
+          "yanked_reason": null
+        }
+      ]
+    }
+  },
+  "xlsxwriter": {
+    "releases": {
+      "3.3.2": [
+        {
+          "comment_text": "",
+          "digests": {
+            "md5": "dedf3839b37071dad2689b102288d90b",
+            "sha256": "bc10b314ec3bbcc910b489f095f1a365863d9482afa681748f97d6d5e976f944"
+          },
+          "downloads": -1,
+          "filename": "xlsxwriter-3.3.2-py3-none-any.whl",
+          "has_sig": false,
+          "md5_digest": "dedf3839b37071dad2689b102288d90b",
+          "packagetype": "bdist_wheel",
+          "python_version": "py3",
+          "requires_python": ">=3.8",
+          "size": 180558,
+          "upload_time": "2026-11-20T01:38:23.412614Z",
+          "upload_time_iso_8601": "2026-11-20T01:38:23.412614Z",
+          "url": "./xlsxwriter-3.3.2-py3-none-any.whl",
+          "yanked": false,
+          "yanked_reason": null
+        }
+      ]
+    }
+  }
+}

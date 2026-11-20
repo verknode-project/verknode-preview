@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.800490Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.113575Z",
+      "mimetype": "text/csv",
+      "name": "capitals.csv",
+      "path": "examples/web_and_maps/data/capitals.csv",
+      "size": 1108,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.800773Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.113641Z",
+      "mimetype": null,
+      "name": "territories.geojson",
+      "path": "examples/web_and_maps/data/territories.geojson",
+      "size": 2205,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-11-20T01:38:26.800773Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-11-20T01:38:26.800773Z",
+  "mimetype": null,
+  "name": "data",
+  "path": "examples/web_and_maps/data",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.801080Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.113641Z",
+      "mimetype": null,
+      "name": "gis.vkf",
+      "path": "examples/web_and_maps/gis.vkf",
+      "size": 73674,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.801505Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.113901Z",
+      "mimetype": null,
+      "name": "web_services.vkf",
+      "path": "examples/web_and_maps/web_services.vkf",
+      "size": 249166,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.800773Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:38:26.800773Z",
+      "mimetype": null,
+      "name": "data",
+      "path": "examples/web_and_maps/data",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2026-11-20T01:38:26.801080Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-11-20T01:38:26.801080Z",
+  "mimetype": null,
+  "name": "web_and_maps",
+  "path": "examples/web_and_maps",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

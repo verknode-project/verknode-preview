@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.802751Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.114816Z",
+      "mimetype": "text/x-python",
+      "name": "my_widgets.py",
+      "path": "examples/widgets_and_diagrams/vkn_widget_nodes/my_widgets.py",
+      "size": 3878,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-11-20T01:38:26.802751Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-11-20T01:38:26.802751Z",
+  "mimetype": null,
+  "name": "vkn_widget_nodes",
+  "path": "examples/widgets_and_diagrams/vkn_widget_nodes",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

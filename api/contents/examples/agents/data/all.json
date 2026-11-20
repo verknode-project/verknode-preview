@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.786650Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.106900Z",
+      "mimetype": "text/csv",
+      "name": "customers_raw.csv",
+      "path": "examples/agents/data/customers_raw.csv",
+      "size": 370,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.787239Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.107178Z",
+      "mimetype": "text/csv",
+      "name": "sales.csv",
+      "path": "examples/agents/data/sales.csv",
+      "size": 1328,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.786945Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.107178Z",
+      "mimetype": "text/csv",
+      "name": "regions.csv",
+      "path": "examples/agents/data/regions.csv",
+      "size": 103,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-11-20T01:38:26.787239Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-11-20T01:38:26.787239Z",
+  "mimetype": null,
+  "name": "data",
+  "path": "examples/agents/data",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

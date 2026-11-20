@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.796030Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.111901Z",
+      "mimetype": null,
+      "name": "structures.vkf",
+      "path": "examples/life_science/structures.vkf",
+      "size": 226244,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.793811Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.109900Z",
+      "mimetype": null,
+      "name": "chemistry.vkf",
+      "path": "examples/life_science/chemistry.vkf",
+      "size": 103453,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.795030Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:38:26.795030Z",
+      "mimetype": null,
+      "name": "data",
+      "path": "examples/life_science/data",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.795363Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.110901Z",
+      "mimetype": null,
+      "name": "life_science_web.vkf",
+      "path": "examples/life_science/life_science_web.vkf",
+      "size": 185761,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-11-20T01:38:26.795363Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-11-20T01:38:26.795363Z",
+  "mimetype": null,
+  "name": "life_science",
+  "path": "examples/life_science",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

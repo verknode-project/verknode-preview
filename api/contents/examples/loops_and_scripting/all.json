@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.799182Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.112901Z",
+      "mimetype": null,
+      "name": "workflow_scripts.vkf",
+      "path": "examples/loops_and_scripting/workflow_scripts.vkf",
+      "size": 64798,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.798433Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.112901Z",
+      "mimetype": null,
+      "name": "time_loops.vkf",
+      "path": "examples/loops_and_scripting/time_loops.vkf",
+      "size": 61665,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.798835Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.112901Z",
+      "mimetype": null,
+      "name": "timing.vkf",
+      "path": "examples/loops_and_scripting/timing.vkf",
+      "size": 28084,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-11-20T01:38:26.799182Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-11-20T01:38:26.799182Z",
+  "mimetype": null,
+  "name": "loops_and_scripting",
+  "path": "examples/loops_and_scripting",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

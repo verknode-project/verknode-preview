@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.795030Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.110570Z",
+      "mimetype": null,
+      "name": "indinavir_poses.sdf",
+      "path": "examples/life_science/data/indinavir_poses.sdf",
+      "size": 15832,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.794390Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.109900Z",
+      "mimetype": null,
+      "name": "1hsg.pdb",
+      "path": "examples/life_science/data/1hsg.pdb",
+      "size": 168075,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-11-20T01:38:26.795030Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-11-20T01:38:26.795030Z",
+  "mimetype": null,
+  "name": "data",
+  "path": "examples/life_science/data",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

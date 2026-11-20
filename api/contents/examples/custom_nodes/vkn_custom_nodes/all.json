@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.792473Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.109338Z",
+      "mimetype": "text/x-python",
+      "name": "_text.py",
+      "path": "examples/custom_nodes/vkn_custom_nodes/_text.py",
+      "size": 624,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.793075Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.109387Z",
+      "mimetype": "text/x-python",
+      "name": "sources.py",
+      "path": "examples/custom_nodes/vkn_custom_nodes/sources.py",
+      "size": 2435,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2026-11-20T01:38:26.792766Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-11-20T01:36:05.109387Z",
+      "mimetype": "text/x-python",
+      "name": "quality.py",
+      "path": "examples/custom_nodes/vkn_custom_nodes/quality.py",
+      "size": 3913,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-11-20T01:38:26.793075Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-11-20T01:38:26.793075Z",
+  "mimetype": null,
+  "name": "vkn_custom_nodes",
+  "path": "examples/custom_nodes/vkn_custom_nodes",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

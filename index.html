@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>verknode</title>
+<meta name="description" content="Visual, node-based data workflows for Python, inside JupyterLab. Try the live demo in your browser.">
+<link rel="icon" href="assets/verknode_icon.svg" type="image/svg+xml">
+<!-- JupyterLite (lab/) reads its root config from this element; keep it. -->
+<script id="jupyter-config-data" type="application/json" data-jupyter-lite-root=".">{}</script>
+<style>
+  :root {
+    --bg: #ffffff; --fg: #1d2330; --muted: #5a6475; --card: #f4f6f9;
+    --line: #dde2ea; --accent: #2563eb; --accent-fg: #ffffff;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #11151c; --fg: #e6e9ef; --muted: #9aa4b5; --card: #1a2029;
+      --line: #2a323e; --accent: #4f8cff; --accent-fg: #0b0e13;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--fg);
+    font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  main { max-width: 1040px; margin: 0 auto; padding: 32px 16px 64px; }
+  header { text-align: center; padding: 16px 0 8px; }
+  header img { max-width: min(560px, 100%); height: auto; }
+  .tag { font-size: 1.25rem; margin: 8px 0 4px; }
+  .sub { color: var(--muted); margin: 0 auto 24px; max-width: 640px; }
+  .cta { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin-bottom: 40px; }
+  .btn {
+    display: inline-block; padding: 12px 22px; border-radius: 8px; text-decoration: none;
+    font-weight: 600; border: 1px solid var(--line); color: var(--fg); background: var(--card);
+  }
+  .btn.primary { background: var(--accent); color: var(--accent-fg); border-color: var(--accent); }
+  .note { color: var(--muted); font-size: 0.9rem; text-align: center; margin-top: -28px; margin-bottom: 40px; }
+  section { margin: 48px 0; }
+  h2 { font-size: 1.35rem; margin: 0 0 6px; }
+  section p { margin: 0 0 14px; color: var(--muted); }
+  figure { margin: 0; }
+  figure img {
+    width: 100%; height: auto; border-radius: 10px; border: 1px solid var(--line);
+    background: var(--card); display: block;
+  }
+  footer { text-align: center; color: var(--muted); font-size: 0.9rem; margin-top: 64px; }
+  footer a { color: inherit; }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/verknode_banner_dark-v2.png">
+      <img src="assets/verknode_banner_light-v2.png" alt="verknode">
+    </picture>
+    <p class="tag"><b>Visual, node-based data workflows for Python, inside JupyterLab.</b></p>
+    <p class="sub">Connect nodes on a canvas to read, clean and reshape tables, run statistics and
+      machine learning, draw charts and work with molecules, and see every intermediate result.
+      Or build the workflow by chatting with an agent.</p>
+  </header>
+
+  <div class="cta">
+    <a class="btn primary" href="lab/index.html?path=examples/demo.vkf">▶ Try the live demo</a>
+    <a class="btn" href="https://github.com/verknode-project/verknode-preview">More screenshots</a>
+  </div>
+  <p class="note">Runs in your browser with nothing to install. The first start takes 15 to 30 seconds.</p>
+
+  <section>
+    <h2>Build workflows with an agent</h2>
+    <p>Describe what you need. The agent adds, configures and connects nodes, tests them in a sandbox, and asks before removing anything.</p>
+    <figure><img src="images/hero-v4.png" alt="A workflow agent chat on the canvas with the pipeline it built and a bar chart of revenue per region" loading="lazy"></figure>
+  </section>
+
+  <section>
+    <h2>Walkthroughs that explain the workflow</h2>
+    <p>A document you step through like a slide show. Its links show the nodes, settings and outputs they name, and its buttons run them.</p>
+    <figure><img src="images/walkthrough-v1.gif" alt="A walkthrough in a tab beside its workflow, stepping through sections that highlight groups, open settings and run steps" loading="lazy"></figure>
+  </section>
+
+  <section>
+    <h2>Widgets on the canvas</h2>
+    <p>Sliders, inputs and charts next to their nodes, updating as you change them. Selections feed the rest of the workflow.</p>
+    <figure><img src="images/widgets-v3.png" alt="Canvas widgets: a price slider with a bar chart, and a signal generator driven by number inputs" loading="lazy"></figure>
+  </section>
+
+  <section>
+    <h2>Molecules in 2D and 3D</h2>
+    <p>RDKit molecules as a column type, with Mol* and NGL viewers on the canvas.</p>
+    <figure><img src="images/molecules-3d-v1.gif" alt="Mol* and NGL on the canvas: ligand poses in a protein pocket and structures generated from SMILES" loading="lazy"></figure>
+  </section>
+
+  <section>
+    <h2>Work from the keyboard</h2>
+    <p>Auto layout, alignment, and arrow keys between nodes, with widgets that follow the selection.</p>
+    <figure><img src="images/keyboard-v1.gif" alt="Selecting, aligning and auto-laying out a workflow, then walking it with the arrow keys" loading="lazy"></figure>
+  </section>
+
+  <div class="cta">
+    <a class="btn primary" href="lab/index.html?path=examples/demo.vkf">▶ Try the live demo</a>
+  </div>
+
+  <footer>
+    <a href="https://github.com/verknode-project/verknode-preview">github.com/verknode-project/verknode-preview</a>
+  </footer>
+</main>
+</body>
+</html>
