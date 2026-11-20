@@ -275,3 +275,8 @@ stay in your browser.
 
 This repository is a preview of verknode: screenshots and a live demo. The
 source code is not public.
+
+It also holds verknode's package index, `packages/index.json`, which
+verknode reads to offer packages in **≡ Settings › Packages**. A daily
+workflow adds new releases of the listed packages. To list a package, open a
+pull request that adds it to the index.
