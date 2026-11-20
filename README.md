@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://verknode-project.github.io/verknode-preview/lab/index.html?path=examples/demo.vkf"><b>▶ Try the live demo</b></a>
+  <a href="https://verknode-project.github.io/verknode/lab/index.html?path=examples/demo.vkf"><b>▶ Try the live demo</b></a>
   - in your browser, nothing to install
 </p>
 
@@ -257,7 +257,7 @@ the first package:
 
 ## Try it
 
-**[Open the live demo](https://verknode-project.github.io/verknode-preview/lab/index.html?path=examples/demo.vkf)**: verknode in JupyterLite, running entirely
+**[Open the live demo](https://verknode-project.github.io/verknode/lab/index.html?path=examples/demo.vkf)**: verknode in JupyterLite, running entirely
 in your browser with no server and nothing to install. The workflow engine
 runs in a Pyodide (WebAssembly Python) kernel in the page, and your files
 stay in your browser.
@@ -273,10 +273,6 @@ stay in your browser.
 
 ## About this repository
 
-This repository is a preview of verknode: screenshots and a live demo. The
-source code is not public.
-
-It also holds verknode's package index, `packages/index.json`, which
-verknode reads to offer packages in **≡ Settings › Packages**. A daily
-workflow adds new releases of the listed packages. To list a package, open a
-pull request that adds it to the index.
+This repository is archived. verknode, its documentation, live demo and
+package index are at
+[verknode-project/verknode](https://github.com/verknode-project/verknode).
